@@ -1,0 +1,2 @@
+huggingface_api_key='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'
+"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"
